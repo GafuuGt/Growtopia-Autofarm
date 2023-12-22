@@ -17,6 +17,10 @@ Growtopia Autofarm Script for v4.44
 
 4. OPEN GROWTOPIA AND PRESS F11 OR INS TO OPEN THE MENU
 
+# Showcase
+https://www.youtube.com/watch?v=jOPf8FIDUP4&t=10s
 
 # Support
 **@goateetu** on telegram
+
+
