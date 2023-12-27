@@ -15,7 +15,7 @@ Growtopia Autofarm Script for v4.44
 
 3. WAIT FOR THE MESSAGE "INJECTED"
 
-4. OPEN GROWTOPIA AND PRESS F11 OR INS TO OPEN THE MENU.
+4. OPEN GROWTOPIA AND PRESS F11 OR INS TO OPEN THE MENU
 
 # Showcase
 https://www.youtube.com/watch?v=jOPf8FIDUP4&t=10s
