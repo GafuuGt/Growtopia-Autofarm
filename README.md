@@ -9,7 +9,7 @@ Growtopia Autofarm Script for v4.44
 
 3. DISABLE ANTIVIRUS JUST IN CASE
 
-4. Download the .rar file and extract the files on a new folder somewhere.
+4. Download the .rar file and extract the files on a new folder somewhere
 
 2. OPEN GAFU Autofarm.EXE 
 
