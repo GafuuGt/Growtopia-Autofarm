@@ -1,5 +1,5 @@
 # Growtopia-Autofarm
-Growtopia Autofarm Script for v4.44
+Growtopia Autofarm Script for v4.45
 
 # How to Download & Open
 
